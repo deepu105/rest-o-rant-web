@@ -15,3 +15,5 @@
 1. Check the port at which port 80 is exposed by running `docker ps`.
 1. Open `http://<DOCKER>:<PORT>/findrestaurants`.
 1. See the JSON result.
+
+testing
